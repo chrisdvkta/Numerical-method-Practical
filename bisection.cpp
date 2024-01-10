@@ -9,6 +9,7 @@ int main(){
 
 float x0,x1,x2,f0,f1,f2,e;
 int SN = 1; 
+cout<<"THIS CODE IS RUN BY KRISH "<<endl;
 cout<<"Enter criteria (e) : ";
 cin>>e;
 up:
